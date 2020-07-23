@@ -1,0 +1,11 @@
+.topDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.chartDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
